@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0066-plus-one) |
 | [2058-concatenation-of-array](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2058-concatenation-of-array) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
