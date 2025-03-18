@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0389-find-the-difference) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/1013-fibonacci-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
