@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0742-to-lower-case) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
