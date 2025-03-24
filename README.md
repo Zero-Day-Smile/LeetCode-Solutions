@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0742-to-lower-case) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2032-largest-odd-number-in-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
