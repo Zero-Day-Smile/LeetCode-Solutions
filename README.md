@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2058-concatenation-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0258-add-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
