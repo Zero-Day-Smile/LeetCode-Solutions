@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
