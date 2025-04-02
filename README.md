@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0742-to-lower-case) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2032-largest-odd-number-in-string) |
