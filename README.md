@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0344-reverse-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2058-concatenation-of-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0231-power-of-two) |
