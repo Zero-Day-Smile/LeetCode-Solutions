@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0414-third-maximum-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2058-concatenation-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0389-find-the-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -66,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0414-third-maximum-number) |
 ## Depth-First Search
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/1013-fibonacci-number) |
@@ -139,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/2032-largest-odd-number-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Zero-Day-Smile/Coding-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
